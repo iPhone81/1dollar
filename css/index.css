@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700');
+html,body,input{font-family:'Open Sans',sans-serif;margin:0;padding:0}
+a{text-decoration:none;color:inherit}
+*,*:focus,*:active{outline:none}
+h1,h2,h3,h4,p,ul,li,strong{color:#f0f0f0;margin:0;padding:0;list-style:none}
+.productofinal .mit,.productofinal ul,#footer input,.productofinal .mit .slider.slider-nav div,.productofinal input{box-sizing:border-box;-moz-box-sizing:border-box;-o-box-sizing:border-box;-webkit-box-sizing:border-box;-ms-box-sizing:border-box}
+.cbi{clear:both!important}
+.cont{max-width:960px;margin:0 auto}
+.menucab{background:#1f1f1f;font-weight:300;font-size:14px;color:#fff;padding:10px 0}
+.menucab .menucabizq{text-transform:uppercase;float:left}
+.menucab .menucabder{float:right}
+.menucab .menucabizq span{margin-top:5px;display:inline-block}
+.menucab .menucabizq strong{color:#fff}
+.menucab .carrito{margin-right:15px;cursor:pointer;opacity:.8}
+.menucab .carrito:hover{opacity:1}
+.menucab input{border:none;border-radius:3px;font-size:14px;padding:5px;outline:none}
+.menulogo{background:#010101;box-shadow:0 0 15px rgba(0,0,0,.15);padding:20px 0;position:relative;z-index:1}
+.menulogo .logo{float:left}
+.menulogo .logo img{max-width:250px;float:left}
+.menulogo ul{margin-top:50px;float:right}
+.menulogo ul li{font-size:14px;text-transform:uppercase;margin-left:15px;display:inline-block}
+.menulogo ul li:hover a{color:#007fe4}
+.breadcrumb{font-size:12px;margin:25px 0}
+.breadcrumb a{font-weight:bold}
+.breadcrumb i{margin:0 10px}
+.productofinal .mit{width:50%;padding:0 10px;float:left}
+.productofinal .mit .slider img{width:100%}
+.productofinal{font-size:15px}
+.productofinal h1{font-size:38px;font-weight:400}
+.productofinal h2,.productofinal h3{text-transform:uppercase}
+.productofinal h2{font-weight:300;font-size:35px;color:#0674cc;margin-top:5px}
+.productofinal h2 .tacha{text-decoration:line-through;color:#676767}
+.productofinal h3.txtcen{text-align:center}
+.productofinal label{display:block}
+.productofinal input{border:solid 1px #eee;border-radius:3px;font-size:20px;padding:5px;outline:none}
+.productofinal button{background:linear-gradient(#42a1ec, #0070c9);border:none;border-radius:3px;font-weight:bold;font-size:25px;text-transform:uppercase;color:#fff;width:100%;margin:15px 0;padding:15px 0;display:block;cursor:pointer;opacity:.8}
+.productofinal button:hover{opacity:1; background: linear-gradient(#51a9ee, #147bcd)}
+.productofinal h3{margin:15px 0}
+.productofinal ul{line-height:30px;margin:0 0 25px 15px;padding-left:20px}
+.productofinal ul li{list-style:disc}
+.productofinal p{line-height:25px;margin-bottom:15px}
+.btntarj img{width:100%}
+.apurate{text-transform:uppercase;text-align:center;margin:20px 0;width:100%;float:left}
+.apurate strong{font-size:15px;letter-spacing:1px;margin-bottom:5px;display:block}
+.apurate strong span{color:#007fe4}
+.barrain{transition:all .8s}
+.barra,.barrain{background:#eee;box-shadow:0 2px 5px rgba(0,0,0,.15) inset;border-radius:50px;width:100%;height:10px;float:left}
+.barrain{ background: linear-gradient(#42ec4f, #068252);box-shadow:none}
+   
+.vistas{background:#f9f9cd;border-radius:3px;font-size:13px;text-transform:none;color:rgba(0,0,0,.5);margin-top:15px;padding:10px}
+.vistas span{font-weight:700}
+#contador{width:100%;max-width:300px;margin:0 auto;display:block}
+#contador div{font-weight:700;font-size:35px;color:#fff;width:25%;float:left;position:relative}
+#contador div:before{font-size:12px;text-transform:none;width:100%;position:absolute;bottom:-10px;left:0;content:'';opacity:.5}
+#contador #dias:before{content:'Días'}
+#contador #horas:before{content:'Horas'}
+#contador #minutos:before{content:'Minutos'}
+#contador #segundos:before{content:'Segundos'}
+#producto{background:#000;padding:1px 0 35px 0}
+.productofinal .mit .slider.slider-for img{width:100%;height:450px;object-fit:contain}
+.productofinal .mit .slider.slider-nav img{height:120px;object-fit:cover}
+.productofinal .mit .slider.slider-nav div{padding:0 5px}
+#footer{background:#010101;color:#fff;padding:35px 0 20px 0}
+#footer h4,#footer p,#footer ul li{font-weight:300;font-size:13px;color:#fff;line-height:25px}
+#footer a{opacity:.7}
+#footer a:hover{opacity:1}
+#footer h4{font-weight:bold;font-size:16px;margin-bottom:15px}
+#footer .tri{width:calc(100%/3);float:left}
+#footer input{border:none;border-radius:3px;font-weight:300;font-size:13px;display:block;margin:10px 0;padding:10px;width:100%;max-width:200px;outline:none}
+#footer button{background:linear-gradient(#42a1ec, #0070c9);border:none;border-radius:3px;font-weight:300;font-size:13px;color:#fff;text-transform:uppercase;padding:10px 15px;opacity:.9}
+#footer button:hover{opacity:1;cursor:pointer; background: linear-gradient(#51a9ee, #147bcd)}
+#footer .copy{font-weight:300;font-size:11px;text-align:center;margin-top:15px}
+#footer .copy i{font-size:35px;margin:12px 5px}
+/**/
+.productofinal button{opacity:1}
+.productofinal button:hover{background:linear-gradient(#51a9ee, #147bcd)}
+@media all and (max-width: 768px){
+.menucab,.menucab .menucabizq,.menucab .menucabder,.productofinal .mit,.menulogo .logo img,#footer .tri{width:100%}
+.cont{padding:0 15px}
+.menucab{text-align:center;padding:5px 0}
+.menucab .menucabizq{margin-bottom:10px}
+.menucab .menucabizq span{font-size:11px}
+.menulogo{padding:13px 0 6px 0}
+.menulogo .logo{text-align:center;width:100%;float:left}
+.menulogo .logo img{max-width:260px;float:none}
+.menulogo ul,.slider-nav{display:none}
+.breadcrumb{font-size:11px;margin:8px 0}
+.slick-slider{background:#f6f6f6;margin-bottom:10px}
+.productofinal .mit .slider.slider-for img{height:240px}
+.productofinal h1{font-size:24px}
+.productofinal h2{font-size:23px}
+.ordengen{display:flex;flex-wrap:wrap}
+.cantidad{width:100%;margin-bottom:20px;order:2}
+.comprar{order:1}
+.productofinal input{width:100%}
+#footer .tri{margin-bottom:25px}
+}
